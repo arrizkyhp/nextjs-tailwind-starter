@@ -116,6 +116,8 @@
     "@typescript-eslint/no-explicit-any": "error",
     "react/button-has-type": "off",
     "react/react-in-jsx-scope": "off",
-    "react/jsx-props-no-spreading": "off"
+    "react/jsx-props-no-spreading": "off",
+    "no-console": "error",
+    "no-unused-vars": "off"
   }
 }
